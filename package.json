@@ -1,0 +1,11 @@
+{
+  "name": "mongodb-sample-dataset",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/neelabalan/mongodb-sample-dataset.git",
+  "author": "Prathamesh Patil <prathmeshp658@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^4.13.0"
+  }
+}
